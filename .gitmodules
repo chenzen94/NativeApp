@@ -1,0 +1,9 @@
+[submodule "ios"]
+	path = ios
+	url = https://github.com/jiaoxuebing2014/NativeApp-IOS.git
+[submodule "android"]
+	path = android
+	url = https://github.com/jiaoxuebing2014/NativeApp-Android.git
+[submodule "app"]
+	path = app
+	url = https://github.com/jiaoxuebing2014/NativeApp-App.git
